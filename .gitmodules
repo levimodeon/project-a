@@ -1,0 +1,6 @@
+[submodule ".standard"]
+	path = .standard
+	url = ../autobox-standard.git
+[submodule "openspec"]
+	path = openspec
+	url = ../autobox-standard.git
